@@ -1,2 +1,2 @@
 # ruiv-o
-plus perdu qu'un aveugle dans une fusillade
+Sono perso come un cieco in una sparatoria
