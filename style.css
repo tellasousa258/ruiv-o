@@ -17,3 +17,10 @@ header {
     text-transform: uppercase;
     gap: 28px;
 }
+
+
+.nav-item:hover{
+    cursor:pointer;
+    background-color:#979fe1 ;
+    color: #D9AFD9;
+}
