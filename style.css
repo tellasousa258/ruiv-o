@@ -4,9 +4,7 @@
     box-sizing: border-box;
 }
 
-html {
-    scroll-behavior: smooth;
-}
+
 
 body {
     background-color: #D9AFD9;
@@ -25,6 +23,10 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.navbar a {
+    text-decoration: none;
 }
 
 .nav-lista {
